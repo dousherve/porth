@@ -18,6 +18,6 @@ Porth is planned to be:
 
 ```console
 $ python3 porth.py sim ./examples/test.porth
-$ python3 /porth.py com ./examples/test.porth
+$ python3 porth.py com ./examples/test.porth
 $ ./output
 ```
